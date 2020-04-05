@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px;
+    background-image:url(https://th.bing.com/th/id/OIP.nEvIxbQ0jRqN0nNPQ3i-pQHaHa?w=164&h=163&c=7&o=5&dpr=1.5&pid=1.7);
+}
+h1{
+	color:rgb(200,0,100);
+}
+
+nav{
+    height: 70px;
+    display: flex;
+}
+.secondary-block{
+    color: white;
+  	background-image: url(https://th.bing.com/th/id/OIP.PEf8kRSPDvDACjumWGZzgQHaEK?w=272&h=168&c=7&o=5&dpr=1.5&pid=1.7);
+  	border-radius: 40%;
+
+}
+a{
+    color: white;
+}
+nav h2{
+    margin: 0px;
+    padding: 20px 0px 20px 15px;
+}
+nav ul{
+    display: flex;
+    margin: 0px;
+    padding: 24px;
+    list-style: none;
+    text-align: center;
+}
+nav li{
+    margin-left: 15px;
+}
+
+header{
+    text-align: center;
+    padding:60px;
+    margin: 60px 150px;
+    background-color: #ca6d6d;
+}
+.content{
+    max-width:800px ;
+    margin:0 auto;
+}
+header h2{
+    color:rgba(200,0,80,250);
+}
+header img{
+    width: 220px;
+    border-radius: 20%;
+    box-shadow: 3px 3px 6px rgb(170,170,170);
+}
+
+section{
+    padding: 40px;
+}
+header h3 {
+	border: 2px solid black; 
+}
